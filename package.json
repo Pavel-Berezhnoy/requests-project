@@ -11,8 +11,17 @@
     },
     "devDependencies": {
         "axios": "^0.25",
+        "eslint": "^8.40.0",
+        "eslint-plugin-vue": "^9.11.1",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "postcss": "^8.1.14",
+        "vue-loader": "^17.0.1"
+    },
+    "dependencies": {
+        "@vue/eslint-config-airbnb": "^7.0.0",
+        "ant-design-vue": "^3.2.20",
+        "vue": "^3.2.36",
+        "vue-router": "^4.1.6"
     }
 }
